@@ -1,6 +1,6 @@
 # avsProjects
 
-This repository contains a collection of projects and code related to AVS (presumably Audio Visual Speech) experiments and implementations.:contentReference[oaicite:2]{index=2}
+This repository contains a collection of projects and code related to AVS experiments and implementations.
 
 ## Repository Structure
 
